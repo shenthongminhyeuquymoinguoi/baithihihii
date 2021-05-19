@@ -1,0 +1,171 @@
+@charset "utf-8";
+/* CSS Document */
+
+.outer{
+	height: 5600px;
+	width: 1890px;
+	background: #0D0D0D;
+	background-image: url("LL.png");
+	margin: auto;
+	
+}
+.menu{
+	height: 200px;
+	width: 500px;
+	text-align: center;
+	margin: auto;
+}
+.trai{
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+.phai{
+	height: 200px;
+	width: 200px;
+	float: right;
+	text-align: right;
+}
+.header{
+	width: 1850px;
+	height: 4500px;
+	margin: auto;
+		
+}
+.trenmenu{
+	height: 50px;
+}
+.duoimenu4{
+	height: 100px;
+	
+}
+
+.duoimenu{
+	height: 500px;
+	width: 1500px;
+	margin: auto;
+	background-image: url("F cute logo 2.png");
+}
+.duoimenu2{
+	height: 100px;
+}
+.duoimenu3{
+	height: 500px;
+	width: 1500px;
+	margin: auto;
+	background-image: url("Little girl.png");
+}
+.duoimenu5{
+	height: 100px;
+}
+.duoimenu6{
+	height: 500px;
+	width: 1500px;
+	margin: auto;
+	background-image: url("little skull.png");
+}
+.mot{
+	height: 2px;
+	width: 1700px;
+	background: #D3D3D3;
+	margin: auto;
+}
+.hai{
+	height: 2px;
+	width: 1700px;
+	background: #D3D3D3;
+	margin: auto;
+}
+.duoimenu7{
+	height: 100px;}
+.giua{
+	height: 1000px;
+	width: 60%;
+	background-image: url("DEMO.jpg");
+	margin: auto;
+			
+}
+.ba{
+	height: 100px;
+	width: 1700px;
+	margin: auto
+}
+.traithuhai{
+	
+	height: 1000px;
+	width: 20%;
+	float: left;
+	text-align:center;
+}
+.phaithuhai{
+	height: 1000px;
+	width: 20%;
+	float: right;
+	
+	text-align: center;
+}
+.bon{
+	height: 2px;
+	width: 1700px;
+	background: #D3D3D3;
+	margin: auto;}
+.nam{
+	height: 100px;}
+
+.sau{
+	height: 100px;}
+
+.giua2{
+	height: 1000px;
+	width: 60%;
+	background-image: url("DEMO 2.jpg");
+	margin: auto;
+}
+.vechungtoi{
+	height: 300px;
+	width: 1890px;
+	margin: auto;
+	background: #fbc8e7;
+}
+.NENE{
+	width: 30%;
+	height:300px; 
+	
+	float: left;
+}
+
+.MEME{
+	width: 70%;
+	height:300px; 
+	
+	float: right;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
